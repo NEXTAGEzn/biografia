@@ -6,10 +6,12 @@ box-sizing: border-box;
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 1.7;
+    line-height:1.7;
     background-color: #121212;
     color: #f0f0f0;
     padding: 20px;
+    background-image: url(../imagens/paisagem2.jpg);
+    
 }
 
 header {
@@ -26,7 +28,7 @@ header > img {
 }
 
 main {
-    color: #01cffd;
+    color: #e0e0e0;
 }
 
 
@@ -34,13 +36,15 @@ main {
 
 
 
-nav > a {
-    background-color: lightgray;
+ a {
+   
     padding: 10px;
-    color: white;
+    color: rgb(211, 57, 211);
     transition: background-color 0.3s;
-    border-radius: 20px;
+   
 }
-nav > a:hover {
-    background-color: rgb(134, 128, 128);
+
+.outra {
+    background-color: #41005a;
+    border-radius: 20px;
 }

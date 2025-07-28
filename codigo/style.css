@@ -38,7 +38,7 @@ main {
 
  a {
    
-    padding: 10px;
+    padding: 1px;
     color: rgb(211, 57, 211);
     transition: background-color 0.3s;
    
@@ -47,4 +47,19 @@ main {
 .outra {
     background-color: #41005a;
     border-radius: 20px;
+    padding: 10px;
+}
+
+.curiosidades, .redes {
+  margin-top: 25px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.6em;
+    color: dimgray;
 }

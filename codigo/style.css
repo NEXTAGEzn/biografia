@@ -54,12 +54,23 @@ main {
   margin-top: 25px;
 }
 
-p {
-  padding-left: 10px;
-}
 
 footer {
     text-align: center;
     font-size: 0.6em;
     color: dimgray;
 }
+
+.u {
+    margin-top: 200px;
+}
+
+.voltar {
+    background-color: #41005a; 
+    margin-right: 40px;
+    padding: 10px 27px 10px 27px;
+    border-radius: 20px;
+
+}
+
+

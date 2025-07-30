@@ -147,4 +147,29 @@ section h2 {
 .hh {
     text-align: center;
     color: blueviolet;
+    margin: 50px; 
+}
+
+video {
+    margin-left: 30px;
+    margin-right: 30px;
+    border: solid #01cffd;
+    border-radius: 15px;
+}
+
+.p {
+    font-size: 2.5em;
+    margin-top: 2px;
+    text-align: center;
+
+}
+
+.k {
+    font-size: 2em;
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
